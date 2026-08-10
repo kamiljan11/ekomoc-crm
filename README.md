@@ -14,4 +14,4 @@ A CRM built for field-sales teams running government-funded energy-audit program
 React · TypeScript · TanStack Router · Supabase
 
 ## Source
-Application source is **private** (client/proprietary). This repository is a public reference for the project.
+Application source: [`ekomoc`](https://github.com/kamiljan11/ekomoc) — client/proprietary; access may be restricted. This repository is the public write-up for the project.
